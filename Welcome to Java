@@ -1,0 +1,7 @@
+public class Welcome {
+  publick static void main(string []) {
+    //Display message Welcome to Java! on screen
+    system.out.prinln("Welcome to Java!");
+  }
+ }
+ 
